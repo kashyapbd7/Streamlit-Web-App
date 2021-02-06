@@ -22,7 +22,7 @@ st.write("""
 st.subheader('Applying Machine Learning Linear Regression using Python!')
 
 # Open and load image
-image = Image.open('C:/Users/kd122/Desktop/Python/amazon.jpg')
+image = Image.open('amazon.jpg')
 st.image(image, caption='amazon', use_column_width = True)
 
 # Getting the Data
