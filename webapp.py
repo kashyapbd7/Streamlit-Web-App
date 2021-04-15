@@ -100,7 +100,7 @@ st.dataframe(df.head())
 
 # Sidebar Creation
 # Side bar portion of code
-author_pic = Image.open('C:/Users/kd122/Desktop/New folder/penguins-heroku-master/kashyap.jpg')
+author_pic = Image.open('kashyap.jpg')
 st.sidebar.image(author_pic, "Your humble app creator", use_column_width=True)
 st.sidebar.markdown("[Source Code](https://github.com/kashyapbd7)")
 st.sidebar.write("This app uses Machine Learning!")
