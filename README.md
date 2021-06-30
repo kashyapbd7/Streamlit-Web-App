@@ -22,6 +22,6 @@ The web app was built in Python using the following libraries:
 * pickle
 
 
-##How to Use It:-
+#How to Use It:-
 
 Just Clickon this https://share.streamlit.io/kashyapbd7/streamlit-web-app/main/webapp.py and then try to adjust 4 parameters as shown in video above to predict the expense acoordingly.
